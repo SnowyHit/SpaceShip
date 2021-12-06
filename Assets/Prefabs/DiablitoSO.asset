@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ab014329992ac7469b621a56a349649, type: 3}
+  m_Name: DiablitoSO
+  m_EditorClassIdentifier: 
+  UniqID: 1005
+  Life: 5
+  FirePower: 2
+  Armor: 45
+  Speed: 12
+  Level: 1
+  ScaleFactor: {x: 1, y: 1, z: 1}
+  Unlocked: 1
+  Owned: 1
+  Price: 5123
+  Name: Diablito
+  Prefab: {fileID: 1977200293512502, guid: 909e2c7775ffdbd4992cd487afb004f0, type: 3}
+  PrefabImage: {fileID: 21300000, guid: eb10b883d95324043afd94cd33127c6b, type: 3}
